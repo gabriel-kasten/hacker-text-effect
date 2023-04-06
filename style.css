@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0rem;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  font-family: "Space Mono", monospace;
+
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  translate: -50% -50%;
+
+  text-transform: uppercase;
+}
